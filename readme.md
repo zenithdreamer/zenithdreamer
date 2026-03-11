@@ -8,6 +8,8 @@
 ‎✩ full stack developer  ♡⸝⸝  building things with code  ✦⁺₊
 </p>
 
+<br/>
+
 <p align="center">
 final-year software engineering student · freelance developer
 </p>
