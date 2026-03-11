@@ -23,5 +23,9 @@ currently studying · freelancing · always learning
 </p>
 
 <p align="center">
-✦ bangkok, thailand
+work & university account
+</p>
+
+<p align="center">
+✦ bangkok, thailand 
 </p>
