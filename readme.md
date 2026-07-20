@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-final-year software engineering student · freelance developer
+software engineer · freelance developer
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@ i enjoy building systems, platforms, and tools that turn ideas into working soft
 </p>
 
 <p align="center">
-currently studying · freelancing · always learning
+currently freelancing · building · always learning
 </p>
 
 <p align="center">
-work & university account
+work account
 </p>
 
 <p align="center">
